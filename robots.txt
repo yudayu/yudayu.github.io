@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /privacy.html
+Allow: /privacy-es.html
+
+# Sitemaps
+Sitemap: https://yudayu.github.io/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10 
